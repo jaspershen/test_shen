@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "329102503",
+    "hash" : "0",
     "id" : "699B7EB7",
-    "lastKnownWriteTime" : 1585346952,
-    "last_content_update" : 1585346952,
+    "lastKnownWriteTime" : 1585347827,
+    "last_content_update" : 1585347827711,
     "path" : "~/github/test_shen/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "7,18",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
